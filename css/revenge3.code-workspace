@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../revenge2/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "revenge3"
+	}
+}
